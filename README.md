@@ -1,5 +1,6 @@
 # nim-eth-bloom
-Ethereum Bloom Filter
+Ethereum Bloom Filter [![Build Status](https://travis-ci.org/status-im/nim-eth-bloom.svg?branch=master)](https://travis-ci.org/status-im/nim-eth-bloom)
+
 
 ## License
 
