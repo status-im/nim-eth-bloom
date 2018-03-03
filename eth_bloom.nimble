@@ -13,4 +13,5 @@ requires "nim >= 0.17.0",
          "ttmath >= 0.5.0"
 
 task test, "Run tests":
+  --run
   setCommand "cpp", "tests/test1.nim"
