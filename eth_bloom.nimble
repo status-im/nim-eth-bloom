@@ -10,8 +10,8 @@ srcDir        = "src"
 
 requires "nim >= 0.18",
          "nimcrypto",
-         "ttmath"
+         "stint"
 
 task test, "Run tests":
   --run
-  setCommand "cpp", "tests/test1.nim"
+  setCommand "c", "tests/test1.nim"
