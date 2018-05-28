@@ -12,15 +12,12 @@ low relative to other kinds of data structures.
 
 Ethereum bloom filters are bloom filters implemented with the SHA-256 ("keccak") cryptographic hash function.
 
-To see the bloom filter used in the context of the full description of Ethereum / the "Yellow Paper" see
-
-DR. GAVIN WOOD - ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER, EIP-150 REVISION, FOUNDER, ETHEREUM & ETHCORE, GAVIN@ETHCORE.IO
-http://gavwood.com/Paper.pdf
+To see the bloom filter used in the context of the full description of Ethereum, please refer to the [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 
 ## Installation
 ```
-nimble install https://github.com/status-im/nim-eth-bloom
+nimble install eth_bloom
 ```
 
 ## Usage
