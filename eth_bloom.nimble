@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "Status Research & Development GmbH"
 description   = "Ethereum Bloom Filter"
-license       = "Apache2"
+license       = "Apache License 2.0"
 srcDir        = "src"
 
 # Dependencies
