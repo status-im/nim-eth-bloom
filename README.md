@@ -1,5 +1,6 @@
 # eth_bloom - Ethereum Bloom Filter [![Build Status](https://travis-ci.org/status-im/nim-eth-bloom.svg?branch=master)](https://travis-ci.org/status-im/nim-eth-bloom)
 
+A Nim implementation of the bloom filter used by Ethereum.
 
 ## Introduction
 Bloom filters are a type of data structure that use cryptographic hashes
