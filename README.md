@@ -1,9 +1,9 @@
-# eth_bloom: an Ethereum Bloom Filter** [![Build Status](https://travis-ci.org/status-im/nim-eth-bloom.svg?branch=master)](https://travis-ci.org/status-im/nim-eth-bloom)
+# eth_bloom: an Ethereum Bloom Filter [![Build Status](https://travis-ci.org/status-im/nim-eth-bloom.svg?branch=master)](https://travis-ci.org/status-im/nim-eth-bloom)
 
 
 # Introduction
 
-A Nim implementation of the bloom filter used by Ethereum
+A Nim implementation of the bloom filter used by Ethereum.
 
 # Description
 
