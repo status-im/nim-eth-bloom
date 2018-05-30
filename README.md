@@ -9,7 +9,7 @@ A Nim implementation of the bloom filter used by Ethereum.
 
 [Bloom filters](https://en.wikipedia.org/wiki/Bloom_filter) are data structures that use hash functions to test whether an element is a member of a set. They work like other data structures but are probabilistic in nature: that is, they allow false positive matches but not false negative. Bloom filters use less storage space than other data structures.
 
-Ethereum bloom filters are implemented with the SHA-256 (keccak) cryptographic hash function.
+Ethereum bloom filters are implemented with the Keccak-256 cryptographic hash function.
 
 To see the bloom filter used in the context of Ethereum, please refer to the [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf).
 
