@@ -16,7 +16,7 @@ To see the bloom filter used in the context of Ethereum, please refer to the [Et
 
 # Installation
 ```
-nimble install https://github.com/status-im/nim-eth-bloom/blob/master/eth_bloom.nimble
+$ nimble install eth_bloom
 ```
 
 # Usage
