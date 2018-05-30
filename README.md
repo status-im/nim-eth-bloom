@@ -1,4 +1,4 @@
-**eth_bloom: an Ethereum Bloom Filter** [![Build Status](https://travis-ci.org/status-im/nim-eth-bloom.svg?branch=master)](https://travis-ci.org/status-im/nim-eth-bloom)
+# eth_bloom: an Ethereum Bloom Filter** [![Build Status](https://travis-ci.org/status-im/nim-eth-bloom.svg?branch=master)](https://travis-ci.org/status-im/nim-eth-bloom)
 
 
 # Introduction
@@ -7,7 +7,7 @@ A Nim implementation of the bloom filter used by Ethereum
 
 # Description
 
-[Bloom filters](https://en.wikipedia.org/wiki/Bloom_filter) are data structures that use cryptographic hashes for storage and retrieval of data. They work like other data structures but are probabilistic in nature: that is, they allow false positive matches but not false negative. Bloom filters use less storage space than other data structures.
+[Bloom filters](https://en.wikipedia.org/wiki/Bloom_filter) are data structures that use hash functions to test whether an element is a member of a set. They work like other data structures but are probabilistic in nature: that is, they allow false positive matches but not false negative. Bloom filters use less storage space than other data structures.
 
 Ethereum bloom filters are implemented with the SHA-256 (keccak) cryptographic hash function.
 
