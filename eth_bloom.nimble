@@ -14,4 +14,5 @@ requires "nim >= 0.18",
 
 task test, "Run tests":
   --run
+  --threads:"on"
   setCommand "c", "tests/test1.nim"
